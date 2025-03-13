@@ -1,0 +1,11 @@
+# macOS 시스템 파일 제외
+.DS_Store
+Library/
+Applications/
+Desktop/
+Documents/
+Downloads/
+Movies/
+Music/
+Pictures/
+Public/
